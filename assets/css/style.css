@@ -1,3 +1,9 @@
+/*added root to declare recurring variables*/
+:root {
+    /*declared recurring variables*/
+    --white: #ffffff;
+    --blue: #0072bb;
+}
 * {
     box-sizing: border-box;
     padding: 0;
@@ -12,7 +18,8 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    /*used variable from root*/
+    color: white;
 }
 
 .header h1 {
@@ -42,7 +49,8 @@ body {
 }
 
 a {
-    color: #ffffff;
+    /*used variable from root*/
+    color: white;
     text-decoration: none;
 }
 
@@ -88,17 +96,20 @@ p {
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
+    /*used variable from root*/
+    color: white;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+    /*used variable from root*/
+    color: white;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    /*used variable from root*/
+    color: white;
 }
 
 .benefit-lead h3 {
@@ -139,8 +150,10 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    /*used variable from root*/
+    background-color: blue;
+    /*used variable from root*/
+    color: white;
 }
 
 .online-reputation-management {
@@ -148,8 +161,10 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    /*used variable from root*/
+    background-color: blue;
+    /*used variable from root*/
+    color: white;
 }
 
 .social-media-marketing {
@@ -157,8 +172,10 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    /*used variable from root*/
+    background-color: blue;
+    /*used variable from root*/
+    color: white;
 }
 
 .search-engine-optimization img {
