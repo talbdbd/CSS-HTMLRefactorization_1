@@ -2,12 +2,13 @@
 
 ## Description
 
+The goal of this project was to complete a refactoring challenge by condensing and making the provided code more efficient.
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- The motivation was to refactor the code efficiently while maintaining the same HTML structure and CSS styling.
+- I built this project to test my knowledge of HTML, CSS, and how well I can improve existing code given a real world professional collaborative scenario.
+- The main solution I provided was reworking the existing code to be more succinct while maintaining the same output and allowing future add ons to be applied as easily as before.
+- My main learning experience from this project was how to how collaborate on code without taking away the work that was already put in and only focus on improving/fixing what should be improved/fixed.
 
 ## Table of Contents (Optional)
 
